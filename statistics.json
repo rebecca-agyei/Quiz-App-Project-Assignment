@@ -1,0 +1,44 @@
+[
+    {
+        "question": "Pick the odd one out",
+        "choice1": "Mean",
+        "choice2": "Variance",
+        "choice3": "Mode",
+        "choice4": "Median",
+        "answer": 2
+    },
+    {
+        "question":
+            "Which of the following is not affected by outliers?",
+        "choice1": "Standard Deviation",
+        "choice2": "Mean",
+        "choice3": "Range",
+        "choice4": "Interquartile Range",
+        "answer": 4
+    },
+    {
+        "question": "Failing to reject a false null hypothesis is:",
+        "choice1": "Hypothetical error",
+        "choice2": "Type I error",
+        "choice3": "Type II error",
+        "choice4": "Type 0 error",
+        "answer": 3
+    },
+    {
+        "question": "What is the mean for the following scores: 3, 6, 2, 5, 4?",
+        "choice1": "3",
+        "choice2": "5",
+        "choice3": "4",
+        "choice4": "6",
+        "answer": 3
+    },
+    {
+        "question": "What is the median of the following scores: 8, 2, 7, 1, 4",
+        "choice1": "4",
+        "choice2": "7",
+        "choice3": "6",
+        "choice4": "5",
+        "answer": 1
+    }
+  ]
+  

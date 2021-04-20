@@ -1,0 +1,44 @@
+[
+    {
+        "question": "The word 'psychology’ comes from:",
+        "choice1": "Italian",
+        "choice2": "Latin",
+        "choice3": "Spanish",
+        "choice4": "Greek",
+        "answer": 4
+    },
+    {
+        "question":
+            "The Greek philosopher ______ believed that knowledge is acquired through experience and learning.",
+        "choice1": "Aristotle",
+        "choice2": "Archimedes",
+        "choice3": "Rousseau",
+        "choice4": "Plato",
+        "answer": 1
+    },
+    {
+        "question": "______ is the belief that the mind is fundamentally different from the body.",
+        "choice1": "mindism",
+        "choice2": "dualism",
+        "choice3": "centralism",
+        "choice4": "specialism",
+        "answer": 2
+    },
+    {
+        "question": "Freud championed ______ psychology.",
+        "choice1": "cultural",
+        "choice2": "psychodynamic",
+        "choice3": "biodynamic",
+        "choice4": "conscious",
+        "answer": 2
+    },
+    {
+        "question": "Evolutionary psychology has its roots in:",
+        "choice1": "behaviourism",
+        "choice2": "collectivism",
+        "choice3": "functionalism",
+        "choice4": "structuralism",
+        "answer": 3
+    }
+  ]
+  
